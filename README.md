@@ -1,3 +1,4 @@
 # JavaScript 
 
-- Repositório destinado a programação com JavaScript
+## - Repositório destinado a programação com JavaScript
+
