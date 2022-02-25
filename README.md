@@ -1,14 +1,16 @@
 # JavaScript 
 
-## - Repositório destinado a programação com JavaScript
+##  Repositório destinado a programação com JavaScript
 
-JavaScript 
+### JavaScript 
   - Estudo dos fundamentos da linguagem 
 
-## NodeJS
+### NodeJS
   - asjas
   - saos
 
-## React
+### React
+  - asjas
+  - saos
 
 
