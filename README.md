@@ -6,11 +6,17 @@
   - Estudo dos fundamentos da linguagem 
 
 ### NodeJS
-  - asjas
-  - saos
-
+  - Módulos
+  - Protocolo HTTP
+  - Rotas
+  - Express
+  - Mysql
+  - Sequelize
+  - Handlebars
+  - MongoDB / Mongoose
+  - Projeto final de um sistem de blog!
 ### React
-  - asjas
-  - saos
+  - Estudo
+  - 
 
 
