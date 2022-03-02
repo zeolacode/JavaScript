@@ -16,7 +16,17 @@
   - MongoDB / Mongoose
   - Projeto final de um sistem de blog!
 ### React
-  - Estudo
-  - 
+  - Estudo introdutório e instalação do React
+  - JSX
+  - Criando componentes no React
+  - props / eventos por props
+  - CSS no React
+  - React fragments
+  - Eventos no React
+  - useState
+  - Renderização
+  - State Lift
+  - React Router
+  - React Icons
 
 
