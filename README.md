@@ -14,7 +14,7 @@
   - Sequelize
   - Handlebars
   - MongoDB / Mongoose
-  - Projeto final de um sistem de blog!
+  - PROJETO FINAL - Desenvolvimento de um sistem de blog!
 ### React
   - Estudo introdutório e instalação do React
   - JSX
@@ -28,5 +28,7 @@
   - State Lift
   - React Router
   - React Icons
+  - PROJETO FINAL - Desenvolvimento de um sistema de gerenciamento financeiro de projetos (com React)
+  - Curso de referência, Matheus Battisti
 
 
