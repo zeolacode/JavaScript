@@ -11,8 +11,12 @@ import OutraLista from './components/OutraLista';
 import { useState } from 'react';
 import SeuNome from './components/SeuNoma';
 import Saudacao from './components/Saudacao';
-
-import {BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
+import Home from './pages/Home'
+import Empresa from './pages/Empresa'
+import Contato from './pages/Contato'
+import Navbar from './components/layout/Navbar';
+import {BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
+import Footer from './components/layout/Footer';
 
 
 function App() {
@@ -90,15 +94,13 @@ function App() {
 
   return(
     <Router>
-      <ul>
-        <li><Link to="/">Home</Link></li>
-      </ul>
-      <ul>
-        <li><Link to="/empresa">Empresa</Link></li>
-      </ul>
-      <ul>
-        <li><Link to="/contato">Contato</Link></li>
-      </ul>
+      <Navbar />
+      <Routes>
+        <Route exact path="/" caseSensitive={false} element={<Home />} />  
+        <Route path="/empresa" caseSensitive={false} element={<Empresa />} />
+        <Route path="/contato" caseSensitive={false} element={<Contato />} />      
+      </Routes>
+      <Footer />
     </Router>
   )
 
